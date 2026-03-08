@@ -53,7 +53,3 @@ python3 scripts/auto_protect.py --start
 ## Security
 
 See [references/security.md](references/security.md) for detailed security analysis.
-
-## License
-
-MIT License - see [LICENSE](LICENSE)
